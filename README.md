@@ -1,5 +1,7 @@
 Credit Card Transaction Report
+
 Project Overview
+
 This project analyzes credit card transactions to identify key spending trends and patterns using Power BI for data visualization. The project also integrates data from a MySQL database, with the data initially loaded from a CSV file, and utilizes DAX for creating calculated columns and measures to enhance insights.
 
 Key Features
